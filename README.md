@@ -7,7 +7,7 @@
 - Programming Language: Python
 - Problem Solving Skills: Data Structures & Algorithms, OOPS
 - Web Development: HTML5, CSS3
-- Framework & Tools: Django, Django ReST, Git, VS Code
+- Framework & Tools: Fast API, Git, VS Code
 - Databases: Postgres, MySQL, MongoDB
 - Operating System: Windows, Linux 
 -
