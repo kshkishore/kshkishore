@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sreeharsha Kishore.
-- I'm a Python (Django ReST) Web Developer. I did Masters in Computational Applied Linguistics from the University of Hyderabad.
+- I'm a Python Web Developer. I did Masters in Computational Applied Linguistics from the University of Hyderabad.
 - 🎓 An Open-Source enthusiast
 -
 -
